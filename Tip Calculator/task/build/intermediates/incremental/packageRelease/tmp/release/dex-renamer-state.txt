@@ -1,0 +1,4 @@
+#Sat Jun 26 13:18:54 MSK 2021
+base.0=C\:\\Users\\Topsider\\AndroidStudioProjects\\Tip Calculator\\Tip Calculator\\task\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
